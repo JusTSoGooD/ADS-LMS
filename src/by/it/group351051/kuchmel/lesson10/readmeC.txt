@@ -1,3 +1,4 @@
+package by.it.group351051.kuchmel.lesson10;
     Задание на уровень C
 
     Создайте class MyPriorityQueue<E>, который реализует интерфейс Queue<E>
